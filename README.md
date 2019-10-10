@@ -1,4 +1,4 @@
-# routing
+# Admin Panel
 
 ## Project setup
 ```
